@@ -62,5 +62,6 @@ You can click the Preview link to take a look at your changes.
 <p>
 <a href="https://www.github.com/rudugampola"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="max-width: 100%;"></a> <a href="www.linkedin.com/in/ravindu-udugampola" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a></p>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
+![Profile View Counter](https://komarev.com/ghpvc/?username=rudugampola)
+
 
