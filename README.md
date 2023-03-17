@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @rudugampola
+<h1 align="center">Hi 👋, I'm Ravindu Udugampola</h1>
+
 - 👀 I’m interested in Web Development, Artificial Intelligence 
 - 🌱 I’m currently learning C# ASP.NET 
 - 📫 How to reach me: ravindu365@g.ucla.edu
