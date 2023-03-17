@@ -4,6 +4,7 @@
 - 👀 I’m interested in Web Development, Artificial Intelligence 
 - 🌱 I’m currently learning C# ASP.NET 
 - 📫 How to reach me: ravindu365@g.ucla.edu
+- ⚡ Fun fact **I am Funny**
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
