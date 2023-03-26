@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravindu Udugampola</h1>
+<h1 align="center">Hi 👋, I'm Ravindu Udugampola 👨‍🔬⚡💻</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👀 I’m interested in Web Development, Artificial Intelligence 
